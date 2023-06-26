@@ -1,0 +1,36 @@
+/* cloud_pct = response.cloud_pct
+feels_like = response.cloud_pct
+humidity = response.cloud_pct
+max_temp = response.cloud_pct
+min_temp = response.cloud_pct
+sunrise = response.cloud_pct
+sunset = response.cloud_pct
+temp = response.cloud_pct
+wind_degrees = response.cloud_pct
+wind_speed = response.cloud_pct */
+
+.image{
+    height: 60px;
+    width: 60px;
+}
+.bgclr{
+    background-color: aqua;
+}
+
+.img4{
+    height: 40vh;
+    width: 45vh;
+    padding-top: 20px;
+}
+
+.algn4 {
+    text-align: center;
+}
+
+.wt{
+    font-weight: bold;
+}
+
+body{
+    background-image: linear-gradient(140deg, #EADEDB 0%, #BC70A4 50%, #BFD641 75%);
+}
